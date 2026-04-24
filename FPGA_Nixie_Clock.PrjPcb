@@ -49,6 +49,57 @@ CrossRefFollowFromMainSettings=1
 PrefsVaultGUID=
 PrefsRevisionGUID=
 
+[Document1]
+DocumentPath=..\..\..\..\Schmanu\Downloads\LIB_ICE40UP5K-SG48I\ICE40UP5K-SG48I\Altium\Integrated Circuits.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=BWYNPGBM
+
+[Document2]
+DocumentPath=Top Sheet.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=QESZMMRZ
+
+[Document3]
+DocumentPath=..\..\..\..\Schmanu\Downloads\LIB_ICE40UP5K-SG48I\ICE40UP5K-SG48I\Altium\Integrated Circuits.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=AHYYFYUT
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
