@@ -355,6 +355,40 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=INONXOUA
 
+[Document19]
+DocumentPath=Inductors Chokes.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=UMGNBORQ
+
+[Document20]
+DocumentPath=Inductors Chokes.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=JCCKYIKT
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -1510,4 +1544,5 @@ PageOptions=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintSc
 
 [Parameter Manager Custom Column Order]
 diodes.schlib=Package,"Reverse Voltage","Average Current",Package,Configuration
+inductors chokes.schlib=Inductance,"Avg Current",Resistance
 
